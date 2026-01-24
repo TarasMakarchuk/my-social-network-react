@@ -33,7 +33,7 @@
     "history": "~4.7.0",
     "isomorphic-cookie": "^1.2.4",
     "isomorphic-style-loader": "~5.1.0",
-    "lodash": "~4.17.15",
+    "lodash": "~4.17.23",
     "node-fetch": "~2.6.0",
     "node-sass": "^4.13.1",
     "normalize.css": "~8.0.1",
